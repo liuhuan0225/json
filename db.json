@@ -2,7 +2,7 @@
   "posts": {
   "error_proportion":8,
   "error_num":5,
-  "error_msg":"想哪去了 要专心",
+  "error_msg":["想哪去了 要专心","不许走神哦"],
   "msg":"快来攒攒功德吧"
 },
   "comments": [
