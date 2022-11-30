@@ -1,9 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
+  "posts": {
+  "error_proportion":8,
+  "error_num":5,
+  "error_msg":"想哪去了 要专心",
+  "msg":"快来攒攒功德吧"
+},
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
