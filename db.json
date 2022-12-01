@@ -1,8 +1,8 @@
 {
   "posts": {
-  "error_proportion":8,
+  "error_proportion":90,
   "error_num":5,
-  "error_msg":["想哪去了 要专心","不许走神哦"],
+  "error_msg":["臭呆呆，扣你功德"],
   "msg":"呆呆的专属功德屋\n快来攒攒功德吧!"
 },
   "comments": [
