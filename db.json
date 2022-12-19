@@ -5,6 +5,10 @@
   "error_msg":["不许分心哦","我想你了"],
   "msg":"呆呆的专属功德屋\n快来攒攒功德吧!"
 },
+  "version":{
+   "code":3,
+    "url":"www.baidu.com"
+  },
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
