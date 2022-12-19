@@ -6,8 +6,8 @@
   "msg":"呆呆的专属功德屋\n快来攒攒功德吧!"
 },
   "version":{
-   "code":3,
-    "url":"www.baidu.com"
+   "code":2,
+    "url":"https://www.baidu.com"
   },
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
