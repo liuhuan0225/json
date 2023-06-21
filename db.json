@@ -1,19 +1,46 @@
 {
-  "posts": {
-  "error_proportion":1,
-  "error_num":5,
-  "error_msg":["不许分心哦","我想你了"],
-  "msg":"呆呆的专属功德屋\n快来攒攒功德吧!"
-},
-  "version":{
-   "code":2,
-    "url":"https://www.baidu.com"
-  },
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "posts":{
+        "error_proportion":1,
+        "error_num":5,
+        "error_msg":[
+            "不许分心哦",
+            "爱宝贝",
+            "我想你了"
+        ],
+        "msg":"呆呆的专属功德屋\n快来攒攒功德吧!"
+    },
+    "posts_xiao":{
+        "error_proportion":1,
+        "error_num":5,
+        "error_msg":[
+            "不许分心哦",
+            "日行一善",
+            "加油努力"
+        ],
+        "msg":"肖肖的专属功德屋\n快来攒攒功德吧!"
+    },
+    "version":{
+        "code":2,
+        "url":"https://www.baidu.com"
+    },
+    "version_xiao":{
+        "code":2,
+        "url":"https://www.baidu.com"
+    },
+    "comments":[
+        {
+            "id":1,
+            "body":"some comment",
+            "postId":1
+        },
+        {
+            "id":2,
+            "body":"some comment",
+            "postId":1
+        }
+    ],
+    "profile":{
+        "name":"typicode"
+    }
 }
+
